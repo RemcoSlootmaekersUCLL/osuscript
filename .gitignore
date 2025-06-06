@@ -32,6 +32,9 @@ MANIFEST
 # Text documents
 *.txt
 
+# copied files folder
+file_copies/
+
 # PyBuilder
 .pybuilder/
 target/
